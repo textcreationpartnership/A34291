@@ -1,0 +1,213 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Congratulatory poem to Sir John Moor, Knight lord mayor elect of London.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34291</idno>
+            <idno type="STC">Wing C5836</idno>
+            <idno type="STC">ESTC R33392</idno>
+            <idno type="EEBO-CITATION">13291935</idno>
+            <idno type="OCLC">ocm 13291935</idno>
+            <idno type="VID">98843</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34291)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98843)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1547:38)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Congratulatory poem to Sir John Moor, Knight lord mayor elect of London.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. Davis,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Moore, John, --  Sir, 1620-1702 --  Poetry.</term>
+               <term>London (England) --  History --  17th century --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:98843:1"/>
+            <head>A <hi>Congratulatory POEM</hi> TO Sir John Moor, Knight, Lord Mayor Elect of <hi>London.</hi>
+            </head>
+            <lg>
+               <l>NO ſooner doth the aged <hi>Phenix</hi> dye,</l>
+               <l>But kind indulging <hi>Nature</hi> gives <hi>Supply;</hi>
+               </l>
+               <l>Sick of her <hi>ſolitude,</hi> ſhe firſt retires,</l>
+               <l>And on her <hi>Spicy Death-bed</hi> then expires:</l>
+               <l>Thus unconcern'd, Sir <hi>Patience</hi> now declines</l>
+               <l>The <hi>Sword,</hi> and all his Dignities reſigns;</l>
+               <l>Next under <hi>God</hi> and <hi>Royal Charles,</hi> 'twas He</l>
+               <l>Defended perſecuted <hi>Liberty.</hi>
+               </l>
+               <l>When the fierce fury of the <hi>Romiſh Flood</hi>
+               </l>
+               <l>Broke out beyond it's limits, He withſtood</l>
+               <l>The threatning, <hi>Deluge</hi> of the angry <hi>Main,</hi>
+               </l>
+               <l>And <hi>forc'd</hi> its beating Billows <hi>back</hi> again;</l>
+               <l>His circumſpection ſeaſonably reads</l>
+               <l>The dark Intrigues of vain projecting heads:</l>
+               <l>He cou'd all <hi>foreign Maladies</hi> reſent,</l>
+               <l>And equally <hi>Inteſtine Broils</hi> prevent.</l>
+               <l>But now, as dying <hi>Parents</hi> firſt commend</l>
+               <l>Their <hi>Iſſue</hi> to th' <hi>tuition</hi> of a Friend,</l>
+               <l>And then, as if their chiefeſt care was paſt,</l>
+               <l>Pleas'd with the Settlement, they breathe their laſt:</l>
+               <l>So he perceiving buſie <hi>Date</hi> appear,</l>
+               <l>That with a <hi>Period</hi> will cloſe his year,</l>
+               <l>Contentedly reſigns his dying Claim,</l>
+               <l>To the <hi>Succeſſour</hi> of his <hi>Charge</hi> and <hi>Fame;</hi>
+               </l>
+               <l>One whoſe wiſe Conduct knows how to diſpence</l>
+               <l>Rigour to Guilt, and help to Innocence.</l>
+               <l>Here we the City's wiſe Reſults may ſcan,</l>
+               <l>Their very choice is <hi>Metropolitan;</hi>
+               </l>
+               <l>So Univerſal their Elections are,</l>
+               <l>That <hi>England</hi> in the happineſs doth ſhare.</l>
+               <pb n="2" facs="tcp:98843:2" rendition="simple:additions"/>
+               <l>On then great <hi>Magiſtrate,</hi> and, like the <hi>Sun,</hi>
+               </l>
+               <l>
+                  <hi>Set</hi> with the ſplendid Glory you <hi>begun,</hi>
+               </l>
+               <l>Diſperſe ſuch hovering <hi>Clouds</hi> as wou'd benight,</l>
+               <l>And <hi>Interpoſe</hi> themſelves 'twixt us and <hi>light;</hi>
+               </l>
+               <l>You boldly dare your noble Truſt atteſt,</l>
+               <l>Without a baſe perſwading Intereſt.</l>
+               <l>When pleaſing <hi>Flattery</hi> puts on her Charms,</l>
+               <l>To take with gentle <hi>Arts</hi> and ſoft <hi>Alarms,</hi>
+               </l>
+               <l>Fixt with a gallant Reſolution, you</l>
+               <l>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>ncaſe</hi> the <hi>Hypocrite,</hi> and bids adieu.</l>
+               <l>In this confus'd and ill digeſted State;</l>
+               <l>Where <hi>Plots</hi> new Plots, to <hi>counterplot,</hi> create,</l>
+               <l>Truſting to Reaſons Conduct as your Guide,</l>
+               <l>You'l leave the threatning <hi>Gulphs</hi> on either <hi>ſide;</hi>
+               </l>
+               <l>And then erect ſuch <hi>Marks,</hi> as may appear,</l>
+               <l>To caution others from a <hi>Shipwrack</hi> there.</l>
+               <l>'Tis now reſolv'd, the <hi>Romaniſts</hi> ſhall ſee</l>
+               <l>The mean Effects of all their Policy;</l>
+               <l>The Puritans will but expect in vain,</l>
+               <l>Their <hi>Pious Frauds</hi> will gull the Land again:</l>
+               <l>You, like a great <hi>Columbus,</hi> will find out</l>
+               <l>The hidden <hi>Worlds</hi> of deep <hi>Intrigues</hi> and Doubt,</l>
+               <l>Whilſt to your new <hi>Diſcoveries</hi> we give</l>
+               <l>Our thanks, ſuch worthleſs Preſents as we have.</l>
+               <l>
+                  <hi>England</hi> no more of Jealouſies ſhall know,</l>
+               <l>But <hi>Halcyon</hi> Peace ſhall <hi>build,</hi> and Plenty flow,</l>
+               <l>And the proud <hi>Thames,</hi> ſwell'd high, no more complains,</l>
+               <l>But ſmilingly looks on the peaceful Plains;</l>
+               <l>No angry <hi>Tempeſt</hi> then ſhall curle her Brow,</l>
+               <l>Glad to behold revived <hi>Commerce</hi> grow,</l>
+               <l>Whilſt emulous of your Example, We</l>
+               <l>Strive who ſhall moſt expreſs their Loyalty:</l>
+               <l>No Factions ſhall us from our <hi>ſelves</hi> divide,</l>
+               <l>More than the Sea, from all the <hi>World</hi> beſide,</l>
+               <l>But link'd together in one <hi>Chain</hi> of Love,</l>
+               <l>And with one <hi>Spring</hi> unanimous we'll move;</l>
+               <l>That, to our Foes regret, it may be ſaid,</l>
+               <l>We are again <hi>One Body</hi> and <hi>One Head.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>W. Davis,</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
